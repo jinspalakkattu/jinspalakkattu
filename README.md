@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝙄'𝙢 𝙅𝙞𝙣𝙨 𝙈𝙖𝙩𝙝𝙚𝙬</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝙄'𝙢 𝙅𝙞𝙣𝙨 𝙈𝙖𝙩𝙝𝙚𝙬</h1> <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
 <p align="left"> <a href="https://github.com/jinspalakkattu"><img src="https://komarev.com/ghpvc/?username=jinspalakkattu&label=Profile%20views&color=0e75b6&style=flat" alt="jinspalakkattu" /></a> </p>
 
 <details>
